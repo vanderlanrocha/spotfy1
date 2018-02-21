@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+nav{
+    height: 106px;
+    background-color: rgba(0, 0, 0, 0.6);
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+   
+}
+
+nav ul{
+    float: right;
+    margin-right: 200px;
+    margin-top: 40px;
+}
+
+nav ul li{
+    float: left;
+    list-style-type: none;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+header{
+    padding-top: 240px;
+    padding-left: 370px;
+    padding-bottom: 300px;
+    background-image: url('../img/bkg1.jpg');
+    background-size: 100%auto;
+    background-repeat: no-repeat;
+
+   
+}
+
+
+.logo{
+    width: 170px;
+    margin-left: 170px;
+    margin-top: 30px;
+}
+
+.slogan{
+    color: #ffffff;
+    font-size: 75px;
+    font-weight: bold;
+}
+.btn{
+    padding: 25px;
+    border-radius: 50px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 14px;
+}
+.btn-verde{
+     background-color: #1db954;
+     width: 300px;
+
+
+}
+
+.btn-branco {
+                background-color: rgba(0, 0, 0, 0);
+                border: solid 2px wheat;
+                margin-left: 15px;
+                color: black;  
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.guia{
+   width: 100%;
+   z-index: -1;
+   position: absolute;
+   opacity: 0.5; 
+}
+
+
+.logo{
+    width: 170px;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+.guia{
+   width: 100%;
+   z-index: -1;
+   position: absolute;
+   opacity: 0.5; 
+}
+
+.texto1{
+      width: 370px;
+      font-weight: bold;
+      margin-left: 140px;
+      margin-top: 40px;
+      font-size: 42px
+
+}
+.texto2{
+    width: 55px;
+    font-weight: bold;
+    margin-left: 139px;
+    margin-top: 30px;
+    font-size: 21px;
+}
+.texto3{
+    width: 503px;
+    font-weight: bold;
+    margin-left: 137px;
+    margin-top: 19px;
+    font-size: 17px;
+}
+.new {
+    width: 219px;
+    margin-left: 139px;
+    margin-top: 41px;
+    font-size: 20px;
+
+}
+
+.img1{
+    width: 514px;
+    /* margin-left: 679px;
+    margin-top: -491px;
+    font-size: 64px; */
+}
+.cxesq{
+    float: left;
+
+}
+
+
